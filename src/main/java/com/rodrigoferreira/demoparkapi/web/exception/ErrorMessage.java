@@ -1,4 +1,4 @@
-package com.mballem.demoparkapi.web.exception;
+package com.rodrigoferreira.demoparkapi.web.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.Getter;

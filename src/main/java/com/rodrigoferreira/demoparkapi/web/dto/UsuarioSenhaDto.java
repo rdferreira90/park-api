@@ -1,4 +1,4 @@
-package com.mballem.demoparkapi.web.dto;
+package com.rodrigoferreira.demoparkapi.web.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

@@ -1,4 +1,4 @@
-package com.mballem.demoparkapi.entity;
+package com.rodrigoferreira.demoparkapi.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.mballem.demoparkapi.web.dto;
+package com.rodrigoferreira.demoparkapi.web.dto;
 
 import lombok.*;
 

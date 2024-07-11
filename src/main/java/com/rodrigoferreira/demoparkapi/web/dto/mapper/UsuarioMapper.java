@@ -1,8 +1,8 @@
-package com.mballem.demoparkapi.web.dto.mapper;
+package com.rodrigoferreira.demoparkapi.web.dto.mapper;
 
-import com.mballem.demoparkapi.entity.Usuario;
-import com.mballem.demoparkapi.web.dto.UsuarioCreateDto;
-import com.mballem.demoparkapi.web.dto.UsuarioResponseDto;
+import com.rodrigoferreira.demoparkapi.entity.Usuario;
+import com.rodrigoferreira.demoparkapi.web.dto.UsuarioCreateDto;
+import com.rodrigoferreira.demoparkapi.web.dto.UsuarioResponseDto;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.PropertyMap;
 

@@ -1,11 +1,11 @@
-package com.mballem.demoparkapi.web.controller;
+package com.rodrigoferreira.demoparkapi.web.controller;
 
-import com.mballem.demoparkapi.entity.Usuario;
-import com.mballem.demoparkapi.service.UsuarioService;
-import com.mballem.demoparkapi.web.dto.UsuarioCreateDto;
-import com.mballem.demoparkapi.web.dto.UsuarioResponseDto;
-import com.mballem.demoparkapi.web.dto.UsuarioSenhaDto;
-import com.mballem.demoparkapi.web.dto.mapper.UsuarioMapper;
+import com.rodrigoferreira.demoparkapi.entity.Usuario;
+import com.rodrigoferreira.demoparkapi.service.UsuarioService;
+import com.rodrigoferreira.demoparkapi.web.dto.UsuarioCreateDto;
+import com.rodrigoferreira.demoparkapi.web.dto.UsuarioResponseDto;
+import com.rodrigoferreira.demoparkapi.web.dto.UsuarioSenhaDto;
+import com.rodrigoferreira.demoparkapi.web.dto.mapper.UsuarioMapper;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
